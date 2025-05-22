@@ -77,4 +77,4 @@ The repository is organized by each day. You will find working Spring Boot proje
 
 ## ⏭️ Next Steps
 
-Move ahead to **Week 08 - Spring Advanced** where you’ll explore Spring Security, integrating MySQL/PostgreSQL, API versioning, deployment strategies with Docker, and much more!
+This is the end for now.
