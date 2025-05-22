@@ -69,11 +69,11 @@ The repository is organized by each day. You will find working Spring Boot proje
 
 | Day   | Topic Description                                                                                                         |
 |-------|---------------------------------------------------------------------------------------------------------------------------|
-| Day 1 | [Tomcat Servlet](https://github.com/Sandhiya-1718/Week06-07-SpringBoot/tree/Day-1)                                        |
-| Day 2 | [Spring Boot Introduction](https://github.com/Sandhiya-1718/Week06-07-SpringBoot/tree/Day-2)                              |
-| Day 3 | [REST API Calls and Request Handling](https://github.com/Sandhiya-1718/Week06-07-SpringBoot/tree/Day-3)                   |
-| Day 4 | [Spring Multi-Layer Architecture with H2 Database](https://github.com/Sandhiya-1718/Week06-07-SpringBoot/tree/Day-4)     |
-| Day 5 | [Spring Boot Employee Payroll App with Service Layer](https://github.com/Sandhiya-1718/Week06-07-SpringBoot/tree/Day-5)  |
+| Day 1 | [Tomcat Servlet](https://github.com/Sandhiya-1718/Week06-and-07-Java-Backend-Spring-Boot/tree/Day-1)                                        |
+| Day 2 | [Spring Boot Introduction](https://github.com/Sandhiya-1718/Week06-and-07-Java-Backend-Spring-Boot/tree/Day-2)                              |
+| Day 3 | [REST API Calls and Request Handling](https://github.com/Sandhiya-1718/Week06-and-07-Java-Backend-Spring-Boot/tree/Day-3)                   |
+| Day 4 | [Spring Multi-Layer Architecture with H2 Database](https://github.com/Sandhiya-1718/Week06-and-07-Java-Backend-Spring-Boot/tree/Day-4)     |
+| Day 5 | [Spring Boot Employee Payroll App with Service Layer](https://github.com/Sandhiya-1718/Week06-and-07-Java-Backend-Spring-Boot/tree/Day-5)  |
 
 ## ⏭️ Next Steps
 
