@@ -58,8 +58,8 @@ In these two weeks, you will build a strong foundation in Spring Boot and learn 
 - Maven build tool installed and configured
 - IntelliJ IDEA or Eclipse with Spring support
 - Familiarity with:
-  --- Using Spring Initializr to generate projects
-  --- Basics of HTTP/REST APIs
+  - Using Spring Initializr to generate projects
+  - Basics of HTTP/REST APIs
 - Postman or Swagger for API testing  
 - No need to install Apache Tomcat separately — Spring Boot comes with embedded Tomcat
 
