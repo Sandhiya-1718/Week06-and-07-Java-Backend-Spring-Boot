@@ -11,13 +11,15 @@ These weeks focus on backend development using **Spring Boot**, one of the most 
   - [Day 3: REST API Calls and Request Handling](#day-3-rest-api-calls-and-request-handling)
   - [Day 4: Spring Multi-Layer Architecture with H2 Database](#day-4-spring-multi-layer-architecture-with-h2-database)
   - [Day 5: Spring Boot Employee Payroll App with Service Layer](#day-5-spring-boot-employee-payroll-app-with-service-layer)
+  - [Day 6: Application Settings, Validators, and Exception Handlers](#day-6-application-settings-validators-and-exception-handlers)
+  - [Days 8–12: Spring Boot Workshop](#days-8-12-spring-boot-workshop)
 - [Prerequisites](#prerequisites)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Next Steps](#next-steps)
 
 ## 🧠 Overview
 
-In these two weeks, you will build a strong foundation in Spring Boot and learn how to develop REST APIs using a layered architecture. You’ll also explore working with databases using Spring Data JPA and the H2 in-memory database.
+In these two weeks, you will build a strong foundation in Spring Boot and learn how to develop REST APIs using a layered architecture. You’ll also explore working with databases using Spring Data JPA and the H2 in-memory database, and finally MySQL integration for presistent data storage.
 
 ## 📘 Topics Covered
 
@@ -49,7 +51,18 @@ In these two weeks, you will build a strong foundation in Spring Boot and learn 
 - Building a mini payroll system from scratch  
 - Writing business logic in the Service Layer  
 - Creating REST endpoints to manage employees  
-- Testing full flow with H2 database persistence  
+- Testing full flow with H2 database persistence
+
+### Day 6: Application Settings, Validators, and Exception Handlers
+- Managing environment-specific configurations using `application.properties`  
+- Adding validations with annotations like `@NotNull`, `@Size`, `@Pattern`  
+- Creating custom exception classes and handling them with `@ControllerAdvice`  
+- Global exception handling for REST APIs
+
+### Days 8–12: Spring Boot Workshop
+- Hands-on project building  
+- Integrating learned concepts  
+- Debugging, testing, and final submission  
 
 ## 🛠️ Prerequisites
 
@@ -74,7 +87,11 @@ The repository is organized by each day. You will find working Spring Boot proje
 | Day 3 | [REST API Calls and Request Handling](https://github.com/Sandhiya-1718/Week06-and-07-Java-Backend-Spring-Boot/tree/Day-3)                   |
 | Day 4 | [Spring Multi-Layer Architecture with H2 Database](https://github.com/Sandhiya-1718/Week06-and-07-Java-Backend-Spring-Boot/tree/Day-4)     |
 | Day 5 | [Spring Boot Employee Payroll App with Service Layer](https://github.com/Sandhiya-1718/Week06-and-07-Java-Backend-Spring-Boot/tree/Day-5)  |
+| Day 6   | [Application Settings, Validators, and Exception Handlers](https://github.com/Sandhiya-1718/Week06-and-07-Java-Backend-Spring-Boot/tree/Day-6) |
+| Day 8-12   | [Spring Boot Workshop](https://github.com/Sandhiya-1718/Week06-and-07-Java-Backend-Spring-Boot/tree/Day-8-12)  
 
 ## ⏭️ Next Steps
 
-This is the end for now.
+- Review and refactor completed projects  
+- Practice adding more features to your Payroll App  
+- Prepare for advanced Spring topics (Security, Swagger, etc.)
